@@ -1,0 +1,12 @@
+Análise exploratória de microdados do enem 2022 em Fortaleza - CE
+
+perguntas:
+1) qual quantidade de candidatos no Ceará e qual maior faixa etária
+2) Relação entre rendimento na prova e o tipo de escola do ensino médio
+3) Relação entre rendimento e renda mensal  (código 'Q006')
+
+4) Relação entre Renda mensal(código 'Q006') e Acesso a internet (código 'Q025')
+
+
+
+
